@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D10, D11, D12, D2, D3, D4, D5, D6, D7, D8, D9",D_SOD-123_ALT,12,1N4148W,C77978
+"MX1, MX10, MX11, MX12, MX2, MX3, MX4, MX5, MX6, MX7, MX8, MX9",SW_Hotswap_Kailh_MX,12,MX-NoLED,
+SW1,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,1,RotaryEncoder_Switch,C361165
+U1,OLED 4PIN 64×128 SSD1107,1,SSD1107,

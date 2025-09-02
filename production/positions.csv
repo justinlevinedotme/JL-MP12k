@@ -1,0 +1,27 @@
+﻿Designator,Mid X,Mid Y,Rotation,Layer
+D1,72.1,-49.15,90,bottom
+D10,91.15,-87.25,90,bottom
+D11,110.2,-87.25,90,bottom
+D12,129.25,-87.25,90,bottom
+D2,91.15,-49.15,90,bottom
+D3,110.2,-49.15,90,bottom
+D4,129.25,-49.15,90,bottom
+D5,72.1,-68.2,90,bottom
+D6,91.15,-68.2,90,bottom
+D7,110.2,-68.2,90,bottom
+D8,129.25,-68.2,90,bottom
+D9,72.1,-87.25,90,bottom
+MX1,66.4,-44.85,0,bottom
+MX10,85.45,-82.95,0,bottom
+MX11,104.5,-82.95,0,bottom
+MX12,123.55,-82.95,0,bottom
+MX2,85.45,-44.85,0,bottom
+MX3,104.5,-44.85,0,bottom
+MX4,123.55,-44.85,0,bottom
+MX5,66.4,-63.9,0,bottom
+MX6,85.45,-63.9,0,bottom
+MX7,104.5,-63.9,0,bottom
+MX8,123.55,-63.9,0,bottom
+MX9,66.4,-82.95,0,bottom
+SW1,143.4232,-82.6018,0,bottom
+U1,143.3978,-54.7616,270,bottom
